@@ -2,3 +2,11 @@ body {
   font-family: 'Chilanka', cursive;
   font-family: 'Roboto Mono', monospace;
 }
+
+.main-container {
+  background-image: url(./images/nasa.jpg) no-repeat top center;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  overflow: hidden; 
+}
